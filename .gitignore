@@ -1,1 +1,4 @@
 env
+images
+.ipynb_checkpoints/
+chess.dat
