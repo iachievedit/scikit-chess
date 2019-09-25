@@ -30,6 +30,9 @@ squares = {
   'w':'BQ'
   }
 
+command = "mkdir -p images"
+subprocess.run(command, shell=True, check=True)
+
 i = 0
 for k in squares.keys():
   # Basic image

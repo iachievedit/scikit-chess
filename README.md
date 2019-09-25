@@ -13,7 +13,14 @@ Hopefully something cool
 ```
 cd scikit-chess
 pip3 install virtualenv
-virtualenv -p python3.6 env
+virtualenv -p python3.x env
 source env/bin/activate
 pip3 install -r requirements.txt
+```
+
+As of this writing `brew install python` will install Python 3.7, so use `virtualenv -p python3.7 env`.
+
+## Generating the Dataset
+
+```
 ```
