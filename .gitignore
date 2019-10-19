@@ -1,4 +1,6 @@
+.DS_Store
 env
 images
 .ipynb_checkpoints/
 chess.dat
+__pycache__/
