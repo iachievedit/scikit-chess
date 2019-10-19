@@ -6,7 +6,8 @@ A playground for exploring machine learning with chess pieces and SciKit.
 
 Currently covered:
 
-* Binary classifiers
+* [Binary classifiers](https://en.wikipedia.org/wiki/Binary_classification)
+* [One vs. All classifiers](https://en.wikipedia.org/wiki/Multiclass_classification#One-vs.-rest)
 
 ## Prerequisites
 ### macOS
